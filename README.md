@@ -55,5 +55,6 @@ The goal of this analysis is to use deep learning models to help **Alphabet Soup
     - **Support Vector Machines (SVM)**: Often perform better on smaller datasets.  
     - **Random Forest or Gradient Boosting Trees (e.g., XGBoost)**: Can automatically select important features, reduce the need for feature engineering, and improve model performance.
 
+<img width="1016" alt="截圖 2024-11-27 下午10 10 31" src="https://github.com/user-attachments/assets/57fa20d9-53fe-4e88-8d3e-94c872fc64c3">
 
     
